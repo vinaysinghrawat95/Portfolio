@@ -939,28 +939,20 @@ iframe {
 }
 
 
-.facebook:hover {
-    transform: rotateX(-80deg) rotateY(3deg) rotateZ(20deg) translateZ(-15px) translateY(-41px) translateX(-7px) scale3d(1.2, 1.2, 1.2);
-}
-
-.facebook:hover .side {
-    background-color: #3b5998;
-}
-
-.instagram:hover {
-    transform: rotateX(-80deg) rotateY(3deg) rotateZ(20deg) translateZ(-15px) translateY(-41px) translateX(-7px) scale3d(1.2, 1.2, 1.2);
-}
-
-.instagram:hover .side {
-    background-color: #c32aa3;
-}
-
 .github:hover {
     transform: rotateX(-80deg) rotateY(3deg) rotateZ(20deg) translateZ(-15px) translateY(-41px) translateX(-7px) scale3d(1.2, 1.2, 1.2);
 }
 
 .github:hover .side {
     background-color: #000000;
+}
+
+.resume:hover {
+    transform: rotateX(-80deg) rotateY(3deg) rotateZ(20deg) translateZ(-15px) translateY(-41px) translateX(-7px) scale3d(1.2, 1.2, 1.2);
+}
+
+.resume:hover .side {
+    background-color: #49aaca;
 }
 
 .linkedin:hover {
