@@ -12,7 +12,7 @@ const handleForm = () => {
         }
 
         (async function () {
-            const KEY = 'x9zvWBnuvT7jSuNFYBaMcKKljzQADGjAQ';
+            const KEY = 'pYZXl3V3AD3olAwP4aVfeJrM1AVT47byg';
             let URL = 'https://intact-roanna-api-v9-6a640f42.koyeb.app/api/public/submit';
             try {
                 console.log("Submitting Form")
