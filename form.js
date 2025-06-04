@@ -18,7 +18,7 @@ const handleForm = () => {
         (async function () {
             btn.innerText = "Wait.."
             btn.disabled = true
-            const KEY = 'izj2UIGagpO55cdlE3VmOHm3127rbTfTrA';
+            const KEY = "716DhDAFqOzowx4QzFCFDESqZzT8AP8Q";
             let URL = 'https://intact-roanna-api-v9-6a640f42.koyeb.app/api/public/submit';
             try {
                 const response = await fetch(URL, {
